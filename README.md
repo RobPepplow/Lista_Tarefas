@@ -6,10 +6,6 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 
 - ✉️ Contato: **robsonpepplow@gmail.com**
 
-
-# Veja Agora No link Abaixo como Ficou o Projeto Final
-
-
 # As Tecnologias Utilizas Foram Apenas:
 
 <div align="center" gap="20">
@@ -27,5 +23,7 @@ As tecnologias nas quais foram estudadas incluem ReactJS, NodeJS, Vue.js, HTML, 
 # Descrição do Projeto:
 
 Neste Projeto Simples Utilizei o LocalStorage para armazenar as Tarefas e a aplicação e uma simples lista de tarefas que pode ser alterada e excluida.
+
+## Veja Agora No link Abaixo como Ficou o Projeto Final
 
 - ⚡ Link do Projeto: http://lista-tarefasrobson.surge.sh/
